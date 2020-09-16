@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GraphyHao&#39;s Blog</title>
+    <link>https://graphyhao.gitee.io/tags.html</link>
+    <description>Recent content in Tags on GraphyHao&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>utf-8</language>
+    <lastBuildDate>Wed, 16 Sep 2020 08:59:53 +0800</lastBuildDate><atom:link href="https://graphyhao.gitee.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first</title>
+      <link>https://graphyhao.gitee.io/tags/first.html</link>
+      <pubDate>Wed, 16 Sep 2020 08:59:53 +0800</pubDate>
+      
+      <guid>https://graphyhao.gitee.io/tags/first.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

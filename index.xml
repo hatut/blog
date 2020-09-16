@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GraphyHao&#39;s Blog</title>
+    <link>https://graphyhao.gitee.io/</link>
+    <description>Recent content on GraphyHao&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>utf-8</language>
+    <lastBuildDate>Wed, 16 Sep 2020 08:59:53 +0800</lastBuildDate><atom:link href="https://graphyhao.gitee.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first Chapter</title>
+      <link>https://graphyhao.gitee.io/post/cp1.html</link>
+      <pubDate>Wed, 16 Sep 2020 08:59:53 +0800</pubDate>
+      
+      <guid>https://graphyhao.gitee.io/post/cp1.html</guid>
+      <description>I can only say that I have seen a lot of this kind of thing. I just want to say that I understand everything and I don&amp;rsquo;t want to say much if I don&amp;rsquo;t understand it. Fine details, don&amp;rsquo;t ask the reason. There are too many interests involved here. It&amp;rsquo;s not good for you and me. You don&amp;rsquo;t know. The rest of me can only say that the water is too deep and involves a lot of things.</description>
+    </item>
+    
+    <item>
+      <title>联系我</title>
+      <link>https://graphyhao.gitee.io/contact.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphyhao.gitee.io/contact.html</guid>
+      <description>线上联系，线下真人快打
+email: hatut@foxmail.com
+wechat: codegraphy</description>
+    </item>
+    
+  </channel>
+</rss>
